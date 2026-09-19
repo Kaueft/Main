@@ -19,47 +19,47 @@ Profissional de TI com +4 anos de experiência, atualmente **IT Infrastructure &
 
 ### 🛡️ Segurança da Informação
 
-![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=flat-square)
-![Cylance](https://img.shields.io/badge/-Cylance%20EDR-6420AA?style=flat-square)
-![SIEM](https://img.shields.io/badge/-SIEM%20(Stellar%20Cyber)-1F2937?style=flat-square)
-![WAF](https://img.shields.io/badge/-WAF%20(Azion)-1F2937?style=flat-square)
-![SOC](https://img.shields.io/badge/-SOC-1F2937?style=flat-square)
-![IPS/IDS](https://img.shields.io/badge/-IPS%2FIDS-1F2937?style=flat-square)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-1F2937?style=flat-square)
-![Pentest](https://img.shields.io/badge/-Pentest-1F2937?style=flat-square)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=for-the-badge)
+![Cylance](https://img.shields.io/badge/-Cylance%20EDR-6420AA?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/-SIEM%20(Stellar%20Cyber)-1F2937?style=for-the-badge)
+![WAF](https://img.shields.io/badge/-WAF%20(Azion)-1F2937?style=for-the-badge)
+![SOC](https://img.shields.io/badge/-SOC-1F2937?style=for-the-badge)
+![IPS/IDS](https://img.shields.io/badge/-IPS%2FIDS-1F2937?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-1F2937?style=for-the-badge)
+![Pentest](https://img.shields.io/badge/-Pentest-1F2937?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🖥️ Infraestrutura & Redes
 
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![Cisco/CCNA](https://img.shields.io/badge/-Cisco%20%2F%20CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
+![Cisco/CCNA](https://img.shields.io/badge/-Cisco%20%2F%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 💻 Linguagens & Desenvolvimento
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/-Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🏢 Sistemas Empresariais
 
-![ERP](https://img.shields.io/badge/-ERP%20(NL)-1F2937?style=flat-square)
-![Blip](https://img.shields.io/badge/-Blip-1F2937?style=flat-square)
-![CRM](https://img.shields.io/badge/-CRM%20(New%20Sales)-1F2937?style=flat-square)
-![FreteFy](https://img.shields.io/badge/-FreteFy-1F2937?style=flat-square)
-![DataSys/Senior](https://img.shields.io/badge/-DataSys%20%2F%20Senior-1F2937?style=flat-square)
-![Totvs/Linx](https://img.shields.io/badge/-Totvs%20%2F%20Linx-1F2937?style=flat-square)
-![WMS Fullsoft](https://img.shields.io/badge/-WMS%20(Fullsoft)-1F2937?style=flat-square)
+![ERP](https://img.shields.io/badge/-ERP%20(NL)-1F2937?style=for-the-badge)
+![Blip](https://img.shields.io/badge/-Blip-1F2937?style=for-the-badge)
+![CRM](https://img.shields.io/badge/-CRM%20(New%20Sales)-1F2937?style=for-the-badge)
+![FreteFy](https://img.shields.io/badge/-FreteFy-1F2937?style=for-the-badge)
+![DataSys/Senior](https://img.shields.io/badge/-DataSys%20%2F%20Senior-1F2937?style=for-the-badge)
+![Totvs/Linx](https://img.shields.io/badge/-Totvs%20%2F%20Linx-1F2937?style=for-the-badge)
+![WMS Fullsoft](https://img.shields.io/badge/-WMS%20(Fullsoft)-1F2937?style=for-the-badge)
 
 ---
 
@@ -82,7 +82,7 @@ Profissional de TI com +4 anos de experiência, atualmente **IT Infrastructure &
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AAfiguer%C3%B3teixeira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AAfiguer%C3%B3teixeira)
 
 <!--
 📝 Antes de commitar: confira se o link do LinkedIn acima abre corretamente
