@@ -80,19 +80,6 @@ Profissional de TI com +4 anos de experiência, atualmente **IT Infrastructure &
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaueft&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueft&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kaueft&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AAfiguer%C3%B3teixeira)
