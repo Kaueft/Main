@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" alt="Hacking GIF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=520&height=120&lines=root%40kaue%3A~%24+whoami;kaue+--role+%22Cybersecurity+Lead%22;root%40kaue%3A~%24+sudo+access+--grant;%5BOK%5D+Access+granted+%E2%9C%93" alt="Terminal Animation"/>
 </p>
 
 ---
