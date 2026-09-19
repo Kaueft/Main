@@ -15,6 +15,8 @@
 
 Profissional de TI com +4 anos de experiência, atualmente **IT Infrastructure & Cybersecurity Lead** na Mundiart S.A., liderando o time técnico do setor. Construí minha trajetória passando por Suporte de TI e Infraestrutura, com experiência prática em EDR, SOC, SIEM, WAF, firewall, IPS/IDS e administração de Active Directory/Microsoft 365. Meu foco atual é aprofundar minha especialização em **Cybersecurity** — proteção de dados, resposta a incidentes e arquitetura segura — unindo a visão técnica à experiência de liderança.
 
+Desenvolvo sites, aplicativos mobile e sistemas desktop empresariais.
+
 ---
 
 ### 🛡️ Segurança da Informação
