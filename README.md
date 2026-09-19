@@ -32,6 +32,7 @@ Desenvolvo sites, aplicativos mobile e sistemas desktop empresariais.
 ![Nmap](https://img.shields.io/badge/-Nmap-1F2937?style=for-the-badge)
 ![Pentest](https://img.shields.io/badge/-Pentest-1F2937?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OSINT](https://img.shields.io/badge/-OSINT-1F2937?style=for-the-badge)
 
 ### 🖥️ Infraestrutura & Redes
 
@@ -40,7 +41,30 @@ Desenvolvo sites, aplicativos mobile e sistemas desktop empresariais.
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 ![Cisco/CCNA](https://img.shields.io/badge/-Cisco%20%2F%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### ☁️ Cloud & Hospedagem
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Hostinger](https://img.shields.io/badge/-Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🐳 Virtualização & Containers
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/-Hyper--V-0067B8?style=for-the-badge&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+### 📊 Monitoramento & Observabilidade
+
+![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Netbox](https://img.shields.io/badge/-Netbox-1F2937?style=for-the-badge)
 
 ### 💻 Linguagens & Desenvolvimento
 
